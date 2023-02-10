@@ -19,7 +19,7 @@ The admin of the system can perform all the operations on the website. Once he/s
 ## Technology 
 * ![ReactJs](https://img.shields.io/badge/FrontEnd-ReactJs-blue)
 * ![SpringBoot](https://img.shields.io/badge/BackEnd-Spring_Boot-green)
-* ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+* ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-green)
 
 ## Tools 
 - Azure Boards - For planning and managing the project
